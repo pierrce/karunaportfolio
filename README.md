@@ -22,9 +22,9 @@
 [LeetCode](https://github.com/pierrce/leetcode)  
 [Unity Equalizer](https://github.com/pierrce/unity-equalizer)  
 
-### Karuna Labs Work
-[About Karuna Labs](https://karunalabs.com/about/)
-[Demonstration Video](https://vimeo.com/344920663)
+### Karuna Labs Work  
+[About Karuna Labs](https://karunalabs.com/about/)  
+[Demonstration Video](https://vimeo.com/344920663)  
 
 ### Researched Hardware
 
