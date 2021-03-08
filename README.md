@@ -26,6 +26,15 @@
 [About Karuna Labs](https://karunalabs.com/about/)  
 [Demonstration Video](https://vimeo.com/344920663)  
 
+#### Responsibilities
+
+- Assets creation using Blender and Adobe Illustrator
+- Scene and Lighting creation within Unity
+- Service script creation with C# that communicates with our backend Django web framework.
+- Activity design and creation using C# and StrangeIOC
+- Avatar joint detection and tracking using custom C# scripts and FinalIK for medical data analysis and patient progress tracking.
+- Optimization of Lighting, Scripts, Calls using the Unity Profiler.
+
 ### Researched Hardware
 
 The following is a list of hardware I've worked with through their APIs during my time at KarunaLabs while searching for a better finger and hand tracking solution. 
@@ -33,6 +42,7 @@ The following is a list of hardware I've worked with through their APIs during m
 [Manus Gloves](https://www.manus-vr.com/mocap-gloves)  
 [Oculus Quest Hand Tracking](https://support.oculus.com/2720524538265875/)  
 [LeapMotion](https://developer.leapmotion.com/)  
+[Neurable](https://www.youtube.com/watch?v=47WHqDNckI8)
 [FinchXR](https://finch-xr.com/)  
 
 The following are headsets I've worked and tested our Unity driven software on while researching standalone options at Karuna Labs.  
