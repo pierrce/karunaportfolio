@@ -59,3 +59,16 @@ Other hardware we tested our software on or with.
 [Windows MR *Discontinued*](https://www.techradar.com/news/windows-mixed-reality-everything-you-need-to-know)  
 [Vive Pro](https://www.vive.com/us/product/vive-pro/)  
 [Vive Trackers](https://www.vive.com/us/accessory/vive-tracker/)  
+
+### Avatar Creation for VRChat
+
+// MOTHMAN IMAGES
+// OTHER SFW IMAGES
+
+### Project N.O.M.U.S.
+
+- ExpressJS Typescript Backend
+- MySQL Database
+- Unity C# Frontend
+
+// INSERT VIDEO HERE
