@@ -42,7 +42,7 @@ The following is a list of hardware I've worked with through their APIs during m
 [Manus Gloves](https://www.manus-vr.com/mocap-gloves)  
 [Oculus Quest Hand Tracking](https://support.oculus.com/2720524538265875/)  
 [LeapMotion](https://developer.leapmotion.com/)  
-[Neurable](https://www.youtube.com/watch?v=47WHqDNckI8)
+[Neurable](https://www.youtube.com/watch?v=47WHqDNckI8)  
 [FinchXR](https://finch-xr.com/)  
 
 The following are headsets I've worked and tested our Unity driven software on while researching standalone options at Karuna Labs.  
@@ -63,7 +63,7 @@ Other hardware we tested our software on or with.
 ### Avatar Creation for VRChat
 
 // MOTHMAN IMAGES
-// OTHER SFW IMAGES
+// OTHER IMAGES
 
 ### Project N.O.M.U.S.
 
