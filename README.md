@@ -28,7 +28,9 @@
 
 ### Karuna Labs Work  
 [About Karuna Labs](https://karunalabs.com/about/)  
-[Demonstration Video](https://vimeo.com/344920663)  
+[Demonstration Video](https://vimeo.com/344920663) 
+
+[![Karuna Labs](https://healthiar.com/wp-content/uploads/2019/07/karuna-1024x696.png)
 
 #### Responsibilities
 
