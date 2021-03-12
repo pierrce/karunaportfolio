@@ -10,6 +10,8 @@
 [Store Page](https://store.steampowered.com/app/667050/SojournVR/)  
 [Old Dev Vlogs](https://www.youtube.com/watch?v=wQiuYqwvXcE&list=PLvOQa47lzVfDNJ0kKPmBBiyaoUWZDFkl0)  
 
+[![Sojourn](https://cdn.akamai.steamstatic.com/steam/apps/667050/ss_7b90d0f37e799ceda9faea14ac3eef2e0f7874ca.600x338.jpg?t=1561479136)
+
 ### C++ Code
 [Two Sum](https://github.com/pierrce/leetcode/blob/master/one/cppsolution2.cpp)  
 [Add Two Numbers Linked List](https://github.com/pierrce/leetcode/blob/master/two/cppsolution1.cpp)  
