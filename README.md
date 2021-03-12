@@ -90,6 +90,12 @@ Other hardware we tested our software on or with.
 
 ![Club Map](https://cdn.discordapp.com/attachments/801556578481340457/811390068757102592/spooky.PNG)
 
+#### Scripted Objects
+
+![Radio Player](https://cdn.discordapp.com/attachments/762199756034277396/820007528318107668/radioplayer.PNG)
+
+Radio player that plays over 100 different stations from around the world. Allows the users to easily add and remove stations.
+
 ### Related Applications
 
 - Git
