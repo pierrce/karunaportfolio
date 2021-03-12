@@ -4,6 +4,8 @@
 [Gameplay](https://www.youtube.com/watch?v=6-YyZyadLAk)  
 [Most Recent Gameplay](https://www.youtube.com/watch?v=t8eD2Pa69yA)  
 
+[![Scape Rogue-Like](http://img.youtube.com/vi/4N8u5OHmooo/0.jpg)](https://www.youtube.com/watch?v=4N8u5OHmooo)
+
 ### SojournVR - Unity 3D VR Online RPG
 [Store Page](https://store.steampowered.com/app/667050/SojournVR/)  
 [Old Dev Vlogs](https://www.youtube.com/watch?v=wQiuYqwvXcE&list=PLvOQa47lzVfDNJ0kKPmBBiyaoUWZDFkl0)  
