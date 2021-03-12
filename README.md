@@ -79,6 +79,17 @@ Other hardware we tested our software on or with.
 [LeetCode](https://github.com/pierrce/leetcode)  
 [Unity Equalizer](https://github.com/pierrce/unity-equalizer)  
 
+### Avatar and World Creation Work for VRChat and ChilloutVR
+
+#### Avatars
+
+![Mothman](https://media.discordapp.net/attachments/790506606064173107/818636400320446484/20181106235136_1.jpg)
+![Mothman2](https://cdn.discordapp.com/attachments/790506606064173107/818635078137413632/mothart.png)
+
+#### Worlds
+
+![Club Map](https://cdn.discordapp.com/attachments/801556578481340457/811390068757102592/spooky.PNG)
+
 ### Related Applications
 
 - Git
