@@ -60,10 +60,12 @@ Other hardware we tested our software on or with.
 [Vive Pro](https://www.vive.com/us/product/vive-pro/)  
 [Vive Trackers](https://www.vive.com/us/accessory/vive-tracker/)  
 
-### Avatar Creation for VRChat
+### Unity Version Experience
 
-// MOTHMAN IMAGES
-// OTHER IMAGES
+- [5.6.3](https://unity3d.com/unity/qa/patch-releases/5.6.3p1)
+- [2018 LTS](https://unity3d.com/unity/whats-new/2018.4.20)
+- [2019 LTS](https://unity3d.com/unity/whats-new/2019.4.16)
+- [2020](https://unity3d.com/unity/whats-new/2020.3.0)
 
 ### Project N.O.M.U.S.
 
@@ -71,4 +73,23 @@ Other hardware we tested our software on or with.
 - MySQL Database
 - Unity C# Frontend
 
-// INSERT VIDEO HERE
+### Related Applications
+
+- Git
+- WSL 1/2
+- Eclipse
+- Rider
+- CLion
+- Webstorm
+- Adobe Illustrator
+- Adobe Photoshop
+- IntelliJ Idea
+- PhpStorm
+- PyCharm
+- Visual Studio
+- Visual Studio Code
+- Atom
+- Sublime
+- VIM
+- DreamWeaver
+- Wireshark
